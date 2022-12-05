@@ -1,0 +1,79 @@
+[
+   {
+   "course_img": "https://images.pexels.com/photos/848573/pexels-photo-848573.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+   "course_id": 100,
+   "course_name": "UI Development",
+   "course_description": "Fugiat laudantium, iste similique suscipit natus molestias modi fuga ipsam quo vel hic provident deserunt perferendis earum maiores facilis cumque consequatur quos quisquam eos sequi? Adipisci iusto atque rem nulla ea at aspernatur odit, unde suscipit quibusdam, obcaecati dolorum ipsa quod. Repellendus.",
+   "curriculum": ["Java", "Spring Boot", "Hibernate", "HTML", "CSS", "Bootstrap", "JavaScript", "Angular", "React", "SQL"]
+ },
+ {
+   "course_img": "https://images.pexels.com/photos/3876394/pexels-photo-3876394.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+   "course_id": 101,
+   "course_name": "Java Development",
+   "course_description": "Fugiat laudantium, iste similique suscipit natus molestias modi fuga ipsam quo vel hic provident deserunt perferendis earum maiores facilis cumque consequatur quos quisquam eos sequi? Adipisci iusto atque rem nulla ea at aspernatur odit, unde suscipit quibusdam, obcaecati dolorum ipsa quod. Repellendus.",
+   "curriculum": ["Java", "Spring Boot", "Hibernate", "HTML", "CSS", "Bootstrap", "JavaScript", "Angular", "React", "SQL"]
+ },
+ {
+   "course_img": "https://images.pexels.com/photos/831889/pexels-photo-831889.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+   "course_id": 102,
+   "course_name": "Full Stack Development",
+   "course_description": "Fugiat laudantium, iste similique suscipit natus molestias modi fuga ipsam quo vel hic provident deserunt perferendis earum maiores facilis cumque consequatur quos quisquam eos sequi? Adipisci iusto atque rem nulla ea at aspernatur odit, unde suscipit quibusdam, obcaecati dolorum ipsa quod. Repellendus.",
+   "curriculum": ["Java", "Spring Boot", "Hibernate", "HTML", "CSS", "Bootstrap", "JavaScript", "Angular", "React", "SQL"]
+ },
+ {
+   "course_img": "https://images.pexels.com/photos/2224561/pexels-photo-2224561.jpeg",
+   "course_id": 103,
+   "course_name": "Python Development",
+   "course_description": "Fugiat laudantium, iste similique suscipit natus molestias modi fuga ipsam quo vel hic provident deserunt perferendis earum maiores facilis cumque consequatur quos quisquam eos sequi? Adipisci iusto atque rem nulla ea at aspernatur odit, unde suscipit quibusdam, obcaecati dolorum ipsa quod. Repellendus.",
+   "curriculum": ["Java", "Spring Boot", "Hibernate", "HTML", "CSS", "Bootstrap", "JavaScript", "Angular", "React", "SQL"]
+ },
+ {
+   "course_img": "https://images.pexels.com/photos/2224561/pexels-photo-2224561.jpeg",
+   "course_id": 104,
+   "course_name": "Python 2 Development",
+   "course_description": "Fugiat laudantium, iste similique suscipit natus molestias modi fuga ipsam quo vel hic provident deserunt perferendis earum maiores facilis cumque consequatur quos quisquam eos sequi? Adipisci iusto atque rem nulla ea at aspernatur odit, unde suscipit quibusdam, obcaecati dolorum ipsa quod. Repellendus.",
+   "curriculum": ["Java", "Spring Boot", "Hibernate", "HTML", "CSS", "Bootstrap", "JavaScript", "Angular", "React", "SQL"]
+ },
+ {
+   "course_img": "https://images.pexels.com/photos/2224561/pexels-photo-2224561.jpeg",
+   "course_id": 105,
+   "course_name": "UI Course 1",
+   "course_description": "Fugiat laudantium, iste similique suscipit natus molestias modi fuga ipsam quo vel hic provident deserunt perferendis earum maiores facilis cumque consequatur quos quisquam eos sequi? Adipisci iusto atque rem nulla ea at aspernatur odit, unde suscipit quibusdam, obcaecati dolorum ipsa quod. Repellendus.",
+   "curriculum": ["Java", "Spring Boot", "Hibernate", "HTML", "CSS", "Bootstrap", "JavaScript", "Angular", "React", "SQL"]
+ },
+ {
+   "course_img": "https://images.pexels.com/photos/52576/pexels-photo-52576.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+   "course_id": 106,
+   "course_name": "UI Course 2",
+   "course_description": "Fugiat laudantium, iste similique suscipit natus molestias modi fuga ipsam quo vel hic provident deserunt perferendis earum maiores facilis cumque consequatur quos quisquam eos sequi? Adipisci iusto atque rem nulla ea at aspernatur odit, unde suscipit quibusdam, obcaecati dolorum ipsa quod. Repellendus.",
+   "curriculum": ["Java", "Spring Boot", "Hibernate", "HTML", "CSS", "Bootstrap", "JavaScript", "Angular", "React", "SQL"]
+ },
+ {
+   "course_img": "https://images.pexels.com/photos/2002217/pexels-photo-2002217.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+   "course_id": 107,
+   "course_name": "UI Course 3",
+   "course_description": "Fugiat laudantium, iste similique suscipit natus molestias modi fuga ipsam quo vel hic provident deserunt perferendis earum maiores facilis cumque consequatur quos quisquam eos sequi? Adipisci iusto atque rem nulla ea at aspernatur odit, unde suscipit quibusdam, obcaecati dolorum ipsa quod. Repellendus.",
+   "curriculum": ["Java", "Spring Boot", "Hibernate", "HTML", "CSS", "Bootstrap", "JavaScript", "Angular", "React", "SQL"]
+ },
+ {
+   "course_img": "https://images.pexels.com/photos/4170628/pexels-photo-4170628.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+   "course_id": 108,
+   "course_name": "UI Course 4",
+   "course_description": "Fugiat laudantium, iste similique suscipit natus molestias modi fuga ipsam quo vel hic provident deserunt perferendis earum maiores facilis cumque consequatur quos quisquam eos sequi? Adipisci iusto atque rem nulla ea at aspernatur odit, unde suscipit quibusdam, obcaecati dolorum ipsa quod. Repellendus.",
+   "curriculum": ["Java", "Spring Boot", "Hibernate", "HTML", "CSS", "Bootstrap", "JavaScript", "Angular", "React", "SQL"]
+ },
+ {
+   "course_img": "https://images.pexels.com/photos/4300393/pexels-photo-4300393.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+   "course_id": 109,
+   "course_name": "UI Course 5",
+   "course_description": "Fugiat laudantium, iste similique suscipit natus molestias modi fuga ipsam quo vel hic provident deserunt perferendis earum maiores facilis cumque consequatur quos quisquam eos sequi? Adipisci iusto atque rem nulla ea at aspernatur odit, unde suscipit quibusdam, obcaecati dolorum ipsa quod. Repellendus.",
+   "curriculum": ["Java", "Spring Boot", "Hibernate", "HTML", "CSS", "Bootstrap", "JavaScript", "Angular", "React", "SQL"]
+ },
+ {
+   "course_img": "https://images.pexels.com/photos/9490248/pexels-photo-9490248.jpeg?auto=compress&cs=tinysrgb&w=300",
+   "course_id": 110,
+   "course_name": "UI Course 6",
+   "course_description": "Fugiat laudantium, iste similique suscipit natus molestias modi fuga ipsam quo vel hic provident deserunt perferendis earum maiores facilis cumque consequatur quos quisquam eos sequi? Adipisci iusto atque rem nulla ea at aspernatur odit, unde suscipit quibusdam, obcaecati dolorum ipsa quod. Repellendus.",
+   "curriculum": ["Java", "Spring Boot", "Hibernate", "HTML", "CSS", "Bootstrap", "JavaScript", "Angular", "React", "SQL"]
+ }
+]
